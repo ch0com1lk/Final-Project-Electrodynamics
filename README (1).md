@@ -4,9 +4,9 @@
 
 ## Descripción
 
-Este proyecto estudia la **propagación de ondas electromagnéticas en guías de onda dieléctricas simétricas de tres capas**. Se implementa un análisis teórico y computacional para determinar los modos guiados TE (Transversas Eléctricas) permitidos en una estructura dieléctrica con núcleo (core) y cubierta (cladding).
+Este proyecto estudia la **propagación de ondas electromagnéticas en guías de onda dieléctricas simétricas de tres capas**. Se implementa un análisispara determinar los modos guiados TE (Transversas Eléctricas) permitidos en una estructura dieléctrica con núcleo y cubierta.
 
-## Autores
+## Equipo
 
 - Valeria López Agustín
 - Celso Rojas Pérez
@@ -14,7 +14,6 @@ Este proyecto estudia la **propagación de ondas electromagnéticas en guías de
 
 ## Contenidos
 
-El notebook incluye:
 
 1. **Derivación de la ecuación de onda vectorial** en medios lineales, isotrópicos y homogéneos a partir de las ecuaciones de Maxwell
 2. **Validación de ondas planas monocromáticas** como soluciones de la ecuación de onda
