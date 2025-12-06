@@ -1,7 +1,7 @@
 # Final Project: Electrodynamics 
 ## BUAP - FCFM
 
-# Propagation of Ekectromagnetic Waves in Dielectric Media
+# Propagation of Electromagnetic Waves in Dielectric Media
 
 
 ## Description
