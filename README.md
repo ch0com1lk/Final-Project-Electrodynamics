@@ -1,9 +1,8 @@
 # Final Project: Electrodynamics 
 ## BUAP - FCFM
 
-# Propagación de Ondas Electromagnéticas en Medios Dieléctricos
+# Propagation of Ekectromagnetic Waves in Dielectric Media
 
-**Proyecto Final de Electrodinámica**
 
 ## Description
 
