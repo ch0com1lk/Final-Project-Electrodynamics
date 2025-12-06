@@ -47,7 +47,7 @@ matplotlib
 scipy.optimize.brentq
 ```
 
-## How to run
+## How to run it?
 
 We use Google Colab to implemented it: 
 https://colab.research.google.com/drive/15Me0_aBMHa3PY2hb9guMDrX_aJuLqpsg?usp=sharing
