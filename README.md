@@ -40,6 +40,7 @@ The analysis identifies **4 guided TE modes** propagating in the structure, with
 
 ## Requirements
 
+Using a Python Enviroment (It's already in the notebook)
 ```python
 numpy
 matplotlib
@@ -48,9 +49,8 @@ scipy.optimize.brentq
 
 ## How to run
 
-```bash
-jupyter notebook FinalProject_Electrodynamics-1.ipynb
-```
+We use Google Colab to implemented it: 
+https://colab.research.google.com/drive/15Me0_aBMHa3PY2hb9guMDrX_aJuLqpsg?usp=sharing
 
 ## Notes
 
